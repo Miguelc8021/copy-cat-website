@@ -6,5 +6,5 @@ Link to Copy-Cat-Website: <a href="https://8ca1a81a9b824dd5bc35b72593ecdcf1.vfs.
  </h1>
 
 <p>
- This project gave me the perfert opportunity to show what I have learned about HTML & CSS.  I always understood about how certain tags worked.  For example, I learned about `background-color` and `padding`
+ This project gave me the perfert opportunity to show what I have learned about HTML & CSS.  I always understood about how certain tags worked.  For example, I learned about background-color and padding, but putting different tags with each other was certainly going to be a challenge for me.  Therefore, I had to take a handful of time to overcome this challenge.  I spent time using <a href="https://www.w3schools.com/"> W3Schools </a> to help me better understand how all tags worked.  I even took the time to learn about new tags and even alternative tags.
 </p> 
